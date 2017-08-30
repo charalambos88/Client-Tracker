@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.logo{
+	color:#666;
+	text-align: center;
+}
+
+.logo span {
+	color:#4caf50;
+}
+
+.w3-padding-16 {
+	padding-right:16px;
+	padding-left:16px;
+}
